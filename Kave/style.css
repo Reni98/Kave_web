@@ -1,0 +1,55 @@
+h1,h2{
+    text-align: center;
+}
+caption{
+    caption-side: top;
+}
+section .table{
+    width: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+.kultura{
+    width: 400px;
+}
+
+.hogyan{
+    background-color: #ffe5b4;
+    
+
+}
+
+p{
+    text-align: justify;
+}
+
+.latte{
+    width: 250px;
+}
+
+.hivatkozas{
+    text-decoration: none;
+    color: #6b4226;
+    font-weight: bold;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.kep1{
+    width: 340px;
+    height: 445px;
+    margin: auto;
+}
+
+.kep2{
+    height: 400px;
+}
+
+.img-fluid{
+    width: 1300px;
+}
